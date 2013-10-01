@@ -27,3 +27,4 @@ mock
 spike
 curator
 community
+north star
