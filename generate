@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+uri="http://osric.com/bingo-card-generator/?title=Bullshit+Bingo&freespace=true&freespaceValue=Comodin&freespaceRandom=false&width=5&height=5&number=10&words="
+words=$(cat words.txt | tr ' ' '_' | tr '\n' ,)
+full=$uri+$words
+
+open $full
+
+# vim:ft=bash
