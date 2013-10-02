@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-grep $* words.txt > /dev/null || echo $* >> words.txt
+grep "$*" words.txt > /dev/null || echo "$*" >> words.txt
 
 # vim:ft=bash
