@@ -29,3 +29,4 @@ curator
 community
 north star
 hypothesis
+creating value
