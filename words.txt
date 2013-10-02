@@ -28,3 +28,4 @@ spike
 curator
 community
 north star
+hypothesis
