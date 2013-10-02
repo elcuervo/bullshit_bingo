@@ -30,3 +30,6 @@ community
 north star
 hypothesis
 creating value
+caveat
+mvp
+plan
