@@ -33,3 +33,6 @@ creating value
 caveat
 mvp
 plan
+converting
+validation
+learning goals
